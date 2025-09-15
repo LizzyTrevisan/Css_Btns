@@ -7,5 +7,6 @@
 
 | HyperText Markup Language | Program |
 | ------- | ------------ |
-| HTML |   Athlete Page|
+| HTML |   BTNS|
+| CSS   | BTNS STYLES |
 
